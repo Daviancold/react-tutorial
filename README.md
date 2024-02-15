@@ -3,7 +3,7 @@
 Link can be found here https://www.youtube.com/watch?v=2-crBg6wpp0
 
 Objectives:
-To familiarise myself with React 18 and Javascript
+To familiarise myself with React 18 and Javascript <br />
 To familiarise myself with Redux toolkit
 
 Topics Covered:
