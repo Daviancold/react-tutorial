@@ -1,4 +1,4 @@
-# React Tutorial Application that is based on freeCodeCamp.org's tutorial
+# React Tutorial Application based on freeCodeCamp.org's tutorial
 
 Link can be found here https://www.youtube.com/watch?v=2-crBg6wpp0
 
