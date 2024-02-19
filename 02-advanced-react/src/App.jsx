@@ -1,4 +1,5 @@
-import Starter from './tutorial/03-conditional-rendering/starter/05-short-circuit-examples.jsx';
+import Starter from './tutorial/07-useRef/starter/01-useRef-basics.jsx'
+import Final from './tutorial/06-forms/final/02-user-challenge.jsx'
 
 function App() {
   return (
